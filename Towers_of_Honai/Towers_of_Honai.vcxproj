@@ -24,6 +24,7 @@
     <ProjectGuid>{f15699f2-790b-49cf-8e2c-4de70ca5711a}</ProjectGuid>
     <RootNamespace>TowersofHonai</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Towers_of_Hanoi</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
