@@ -18,13 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\main.cc" />
+    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\towers.cc" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{f15699f2-790b-49cf-8e2c-4de70ca5711a}</ProjectGuid>
     <RootNamespace>TowersofHonai</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Towers_of_Hanoi</ProjectName>
+    <ProjectName>Towers_of_Hanoi_C++</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,10 +143,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\main.cc" />
-    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\towers.cc" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
