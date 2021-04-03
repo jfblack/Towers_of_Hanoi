@@ -6,8 +6,8 @@ John Lewis and William Loftus (this is a horrible book, my 2 cent review).
 
 */
 
-#include <iostream.h>
-
+#include <iostream>
+using namespace std;
 
 void towers( int n, char from, char to, char aux)
 {

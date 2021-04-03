@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cc" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="towers.cc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
