@@ -1,4 +1,4 @@
-/* Main fuction to run towers of honi fuciton.
+/* Main function to run towers of Hanoi function.
 	Jeremy F. Black Math 61 Sat Apr 21 08:58:46 PDT 2001
 */
 
