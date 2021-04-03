@@ -1,6 +1,7 @@
-/* Towers of Honai fuction for Math61. Gives instruions on what order
-to move disks for monig hnoi tower. Fuction inspired by fuction found
-on page 481 of Java Software Solutions: Foundations of Prgram Design by John Lewis and William Loftus (this is a horbbel book, my 2 cent reviwe).
+/* Towers of Hanoi function for Math61. Gives instructions on what order
+to move disks for moving Hanoi tower. Function inspired by function found
+on page 481 of Java Software Solutions: Foundations of Program Design by 
+John Lewis and William Loftus (this is a horrible book, my 2 cent review).
 	Jeremy F. Black Sat Apr 21 08:52:46 PDT 2001
 
 */
