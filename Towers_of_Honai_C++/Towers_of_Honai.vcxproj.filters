@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\main.cc">
+    <ClCompile Include="main.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\towers.cc">
+    <ClCompile Include="towers.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

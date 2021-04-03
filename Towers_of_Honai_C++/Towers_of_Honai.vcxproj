@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\main.cc" />
-    <ClCompile Include="..\..\..\..\OneDrive\Programming\Towers_of_Hoani_Cpp\towers.cc" />
+    <ClCompile Include="main.cc" />
+    <ClCompile Include="towers.cc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
